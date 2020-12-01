@@ -15,6 +15,9 @@ pip3 install playsound
 ```
 
 *Alternatively* you can you the requirements.txt to install all the necessary packeges.
+```sh
+pip3 install -r requirements.txt
+```
 
 
 __arduino__\
