@@ -14,11 +14,14 @@ playsound:
 pip3 install playsound
 ```
 
+*Alternatively* you can you the requirements.txt to install all the necessary packeges.
+
+
 __arduino__\
 Arduino RFID Library for MFRC522:
 download link: https://www.arduino.cc/reference/en/libraries/mfrc522/
- 
-Alternatively you can you the requirements.txt to install all the necessary packeges.
+
+
 
 ## Running the application
 First make sure that all the files are located in the same directory.
