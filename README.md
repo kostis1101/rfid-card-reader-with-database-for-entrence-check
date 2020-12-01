@@ -4,7 +4,7 @@ It keeps track of who has already entered the dinner room. This was achieved by 
 
 ## Requirements
 
-__python__
+__python__\
 pyserial:
 ```sh
 pip3 install pyserial
@@ -14,7 +14,7 @@ playsound:
 pip3 install playsound
 ```
 
-__arduino__
+__arduino__\
 Arduino RFID Library for MFRC522:
 download link: https://www.arduino.cc/reference/en/libraries/mfrc522/
  
